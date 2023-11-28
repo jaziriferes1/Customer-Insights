@@ -1,1 +1,1 @@
-# Customer-Insights
+# Customer Insights Journeys
